@@ -1,0 +1,19 @@
+DATA CLEANING REPORT
+===================
+
+Cleaning performed at: 2025-06-02 15:04:23
+
+Original rows: 15
+Cleaned rows: 13
+Duplicates removed: 2
+
+Columns in cleaned data:
+- id
+- first_name
+- last_name
+- age
+- gender
+- country
+- join_date
+- purchase_amount_$_
+- active_member
