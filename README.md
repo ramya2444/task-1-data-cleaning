@@ -1,12 +1,10 @@
 # Task 1: Data Cleaning and Preprocessing
-
 ## Objective
 Clean and prepare a raw dataset by handling missing values, removing duplicates, and standardizing formats.
-
 ## Tools Used
 - Python
 - Pandas
-
+- Excel
 ## Key Steps Performed
 - Renamed columns to lowercase with underscores
 - Filled missing values in age and purchase amount
